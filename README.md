@@ -1,3 +1,6 @@
+## Cecilia Masemola
+
+I am a lecturer and specialist in remote sensing and geographic information systems. 
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
